@@ -22,29 +22,29 @@
         android:layout_toRightOf="@id/image"
         android:minHeight="@dimen/list_item_height"
         android:orientation="vertical"
-        android:paddingLeft="16dp">
+        android:paddingLeft="20dp">
 
         <TextView
             android:id="@+id/description_text_view"
             android:layout_width="match_parent"
-            android:layout_height="44dp"
+            android:layout_height="50dp"
             android:layout_weight="1"
             android:gravity="bottom"
-            android:textAppearance="?android:textAppearanceMedium"
+            android:textAppearance="?android:textAppearanceLarge"
             android:textColor="@android:color/white"
             android:textStyle="bold"
-            tools:text="lutti" />
+            tools:text="start" />
 
         <TextView
             android:id="@+id/stuff_text_view"
             android:layout_width="match_parent"
-            android:layout_height="44dp"
+            android:layout_height="50dp"
             android:layout_below="@id/description_text_view"
             android:layout_weight="1"
             android:gravity="top"
-            android:textAppearance="?android:textAppearanceMedium"
+            android:textAppearance="?android:textAppearanceLarge"
             android:textColor="@android:color/white"
-            tools:text="one" />
+            tools:text="start" />
 
     </RelativeLayout>
 
