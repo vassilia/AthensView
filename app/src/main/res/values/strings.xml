@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">AthensView</string>
+
+    <!-- Category name for where to party [CHAR LIMIT=20] -->
+    <string name="category_party">Where To Party</string>
+
+    <!-- Category name for where to eat [CHAR LIMIT=20] -->
+    <string name="category_eat">Where To Eat</string>
+
+    <!-- Category name for where to swim [CHAR LIMIT=20] -->
+    <string name="category_swim">Where To Swim</string>
+
+    <!-- Category name for what to see [CHAR LIMIT=20] -->
+    <string name="category_see">What To See</string>
+
 </resources>

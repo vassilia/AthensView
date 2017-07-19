@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#000000</color>
+
+
+    <color name="tan_background">#444444</color>
+
+    <!-- Background color for the swim category -->
+    <color name="category_swim">#5e5e5e</color>
+
+    <!-- Background color for the see category -->
+    <color name="category_see">#5e5e5e</color>
+
+    <!-- Background color for the eat category -->
+    <color name="category_eat">#5e5e5e</color>
+
+    <!-- Background color for the party category -->
+    <color name="category_party">#5e5e5e</color>
 </resources>
